@@ -59,8 +59,8 @@
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: contact@asimhabib.com</p>
-        <p>Phone: (123) 456-7890</p>
+        <p>Email: asimsial324@gmail.com</p>
+        <p>Phone: 03185988632
     </section>
     <footer>
         <p>&copy; 2025 AsimHabib. All Rights Reserved.</p>
